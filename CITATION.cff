@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software or biological modelling framework, please cite the associated publication."
 
-title: "SFRT-MODEL1"
+title: "SPREAD-SFRT"
 type: software
 
 authors:
